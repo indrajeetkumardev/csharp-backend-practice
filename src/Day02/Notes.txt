@@ -1,0 +1,2 @@
+Day 02:
+Learned about namespaces, classes, and program structure in C#.
