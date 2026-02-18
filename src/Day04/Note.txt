@@ -1,0 +1,3 @@
+Day 3 – Learned constructors in C#.
+Default vs parameterized constructors with a simple example.
+Work in progress 🚀
